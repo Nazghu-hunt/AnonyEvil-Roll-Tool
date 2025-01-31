@@ -4,4 +4,6 @@ AnonyEvil - Is a porwerful tool to make you fully anonymous on your network, sys
 
 Remember when you run this tools she will install all dependencies automatically, if you have any issue please install Manually. You will need Python3 and this modules install. I recommend you use command python3 -m venv venv  press enter, and source  venv/bin/activate before  use this tools. Enjoy!
 
+Use Wireshark to see process of these tools working. To Stop tools working you need use ctrl + c
+
 Compatible with All Systems.
